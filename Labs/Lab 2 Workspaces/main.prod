@@ -1,0 +1,11 @@
+
+# Lab 2 Prod file
+resource "azurerm_resource_group" "lab2" {
+  name     = "Zippy123Prod"
+  location = "eastus"
+  tags = {
+      environment = "Prod Configuration"
+      owner       = "Zippy"
+      purpose     = "Used in prod workspace"
+    }
+}

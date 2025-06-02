@@ -1,0 +1,11 @@
+
+# Lab 2 dev file
+resource "azurerm_resource_group" "lab2" {
+  name     = "Zippy123Dev"
+  location = "eastus"
+  tags = {
+      environment = "Dev Configuration"
+      owner       = "Feddy the Wonder Llama"
+      purpose     = "Used in dev workspace"
+    }
+}
