@@ -11,7 +11,7 @@ General information for the class
 - Mid-morning and mid-afternoon 10-minute breaks
     - No fixed time, depends on the flow of discussion
     - Approximately 10am and 2:30pm
-- 
+  
 #### Materials
 
 There is a class materials repository located at: [Class Repository](https://github.com/ExgnosisClasses/2513-AdvTerraform-June3)
