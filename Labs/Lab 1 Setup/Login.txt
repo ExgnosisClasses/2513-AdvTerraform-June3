@@ -1,6 +1,0 @@
-Go to
-portal.azure.com
-
-Login as
-studentxx@markelephantscale.onmicrosoft.com
-Sign in with password ‘Bingobob123’ and change it to ‘Bingobob123!’
